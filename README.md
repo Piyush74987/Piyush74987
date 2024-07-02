@@ -1,8 +1,9 @@
 
-                                                           A Passionate Techie from India
+                                                    
+                                                                                       Hi, I’m @Piyush74987
 
 
-- 👋 Hi, I’m @Piyush74987 
+                                                                                       
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and Machine learning
 - 👯 I’m looking to collaborate on open-source projects that address real-world challenges and promote social good.
