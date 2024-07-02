@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and Machine learning
 - 👯 I’m looking to collaborate on open-source projects that address real-world challenges and promote social good.
-- 📫 How to reach me Feel free to connect via email at piyushmali2812@gmail.com or find me on LinkedIn https://www.linkedin.com/in/piyush-mali-87a110229
+- 📫 Feel free to connect via email at piyushmali2812@gmail.com or find me on LinkedIn https://www.linkedin.com/in/piyush-mali-87a110229
 - 😄 Pronouns: HE/HIM
 
 <!---
