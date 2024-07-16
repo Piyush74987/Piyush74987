@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush74987&label=Profile%20views&color=0e75b6&style=flat" alt="piyush74987" /> </p>
 
-- 🔭 I’m currently working on **Artificial Intelligence and Data Science**
+- 🔭 I’m currently working on **Artificial Intelligence,Data Science and Python **
 
 - 🌱 I’m currently learning **Data Science and Machine learning**
 
