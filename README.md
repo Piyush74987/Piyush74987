@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Piyush Sanjay Mali</h1>
+<h3 align="center">A passionate Techie from India</h3>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Artificial Intelligence and Data Science<br><br>🌱 I’m currently learning Data Science and Machine learning<br><br>👯 I’m looking to collaborate on Data Science Projects<br><br>📫 How to reach me piyushmali2812@gmail.com
 
