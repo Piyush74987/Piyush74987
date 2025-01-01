@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Piyush Sanjay Mali</h1>
-
 <h3 align="center">A passionate Techie from India</h3>
 
 
