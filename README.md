@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush74987&label=Profile%20views&color=0e75b6&style=flat" alt="piyush74987" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Data Science and Machine learning<br>🌱 I’m currently learning Java Full stack Development<br>👯 I’m looking to collaborate on Data Science Projects<br>📫 How to reach me piyushmali2812@gmail.com
+🔭 I’m currently working on Data Science and Machine Learning project<br>🌱 I’m currently Learning Java Full Stack Development<br>👯 I’m looking to collaborate on Data Science Projects<br>📫 How to reach me piyushmali2812@gmail.com
 
 
 ## 🌐 Socials:
