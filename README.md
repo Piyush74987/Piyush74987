@@ -3,8 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush74987&label=Profile%20views&color=0e75b6&style=flat" alt="piyush74987" /> </p>
 
-# 💫 About Me:
-🔭 I’m currently working on Data Science and Machine Learning project<br>🌱 I’m currently Learning Java Full Stack Development<br>👯 I’m looking to collaborate on Data Science Projects<br>📫 How to reach me piyushmali2812@gmail.com
+ <h1>💫 About Me</h1>
+    <ul>
+      <li>🔭 Currently working on <strong>Data Science</strong> and <strong>Machine Learning</strong> projects</li>
+      <li>🌱 Learning <strong>Java Full Stack Development</strong> to strengthen backend &amp; frontend skills</li>
+      <li>👯 Open to collaborating on <strong>Data Science</strong>, <strong>AI</strong>, and <strong>Full-Stack Development</strong> projects</li>
+      <li>📫 Reach me at <a href="mailto:piyushmali2812@gmail.com">piyushmali2812@gmail.com</a></li>
+    </ul>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_piyush_2812) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/piyush-mali-87a110229) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/piyushmali86801) 
